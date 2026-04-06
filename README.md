@@ -1,1 +1,1 @@
-# Otel-Rezervasyon-ve-Y-netim-Sistemi
+# Otel-Rezervasyon-ve-Yönetim-Sistemi
